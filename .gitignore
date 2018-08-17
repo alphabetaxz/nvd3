@@ -10,5 +10,6 @@ Thumbs.db
 node_modules
 bower_components
 coverage
+build
 test-results.xml
 *.orig
